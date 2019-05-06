@@ -12,6 +12,10 @@ p {
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 15px;
+  line-height: 20px;
 }
+ol.important {
+  font-style: oblique;
+  color: green;
+  }
