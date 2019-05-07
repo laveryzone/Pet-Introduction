@@ -3,7 +3,7 @@ h1 {
 }
 
 h2 {
-  font-style: italic
+  font-style: italic;
   text-align: center;
 }
 
@@ -19,3 +19,14 @@ ol.important {
   font-style: oblique;
   color: green;
   }
+
+.test-list {
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 300px;
+}
+
+.test-image {
+  border: 1px solid black;
+  display: inline-block;
+}
