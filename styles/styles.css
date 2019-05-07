@@ -30,3 +30,7 @@ ol.important {
   border: 1px solid black;
   display: inline-block;
 }
+.sidebar {
+  width: 100px;
+  float: right;
+  }
